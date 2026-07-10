@@ -483,14 +483,6 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "CNN.com - RSS Channel - Sport - Football",
-     "url": "http://rss.cnn.com/rss/edition_football.rss",
-     "site": "",
-     "items": 19,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "CNN.com - RSS Channel - Sport",
      "url": "http://rss.cnn.com/rss/edition_sport.rss",
      "site": "",
@@ -528,22 +520,6 @@
      "url": "https://www.espn.com/espn/rss/news",
      "site": "",
      "items": 48,
-     "strikes": 1,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "CNN.com - RSS Channel - Sport - Tennis",
-     "url": "http://rss.cnn.com/rss/edition_tennis.rss",
-     "site": "",
-     "items": 69,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "www.espn.com - TENNIS",
-     "url": "https://www.espn.com/espn/rss/tennis/news",
-     "site": "",
-     "items": 11,
      "strikes": 1,
      "lastAlive": "2026-07-10"
     },
