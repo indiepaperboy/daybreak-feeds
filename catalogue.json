@@ -1,0 +1,3122 @@
+{
+ "generatedAt": "2026-07-10",
+ "sections": [
+  {
+   "id": "news",
+   "name": "News",
+   "feeds": [
+    {
+     "title": "BBC News",
+     "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+     "site": "",
+     "items": 29,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CNN.com - RSS Channel - World",
+     "url": "http://rss.cnn.com/rss/edition_world.rss",
+     "site": "",
+     "items": 29,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "International: Top News And Analysis",
+     "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NDTV News Search Records Found 1000",
+     "url": "http://feeds.feedburner.com/ndtvnews-world-news",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; World News",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+     "site": "",
+     "items": 55,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Top stories - Google News",
+     "url": "https://news.google.com/rss",
+     "site": "",
+     "items": 38,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "World",
+     "url": "http://feeds.washingtonpost.com/rss/world",
+     "site": "",
+     "items": 6,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "World News",
+     "url": "https://www.reddit.com/r/worldnews/.rss",
+     "site": "",
+     "items": 0,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "World news | The Guardian",
+     "url": "https://www.theguardian.com/world/rss",
+     "site": "",
+     "items": 45,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "name": "Business",
+   "feeds": [
+    {
+     "title": "All News",
+     "url": "https://www.investing.com/rss/news.rss",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Bloomberg Originals",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Breaking News on Seeking Alpha",
+     "url": "https://seekingalpha.com/market_currents.xml",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Business Insider",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "EconTalk",
+     "url": "https://feeds.simplecast.com/wgl4xEgL",
+     "site": "",
+     "items": 46,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Economic Times",
+     "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+     "site": "",
+     "items": 76,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Forbes - Business",
+     "url": "https://www.forbes.com/business/feed/",
+     "site": "",
+     "items": 25,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Fortune | FORTUNE",
+     "url": "https://fortune.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "HBR IdeaCast",
+     "url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast",
+     "site": "",
+     "items": 85,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "How I Built This with Guy Raz",
+     "url": "https://feeds.npr.org/510313/podcast.xml",
+     "site": "",
+     "items": 22,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Planet Money",
+     "url": "https://feeds.npr.org/510289/podcast.xml",
+     "site": "",
+     "items": 26,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Startup Stories - Mixergy",
+     "url": "https://feeds.feedburner.com/Mixergy-main-podcast",
+     "site": "",
+     "items": 42,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Blog of Author Tim Ferriss",
+     "url": "https://tim.blog/feed/",
+     "site": "",
+     "items": 3,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Duct Tape Marketing Podcast",
+     "url": "https://ducttape.libsyn.com/rss",
+     "site": "",
+     "items": 54,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Growth Show",
+     "url": "http://thegrowthshow.hubspot.libsynpro.com/",
+     "site": "",
+     "items": 74,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "US Top News and Analysis",
+     "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/news/rssindex",
+     "site": "",
+     "items": 48,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Afford Anything®",
+     "url": "https://affordanything.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Afford Anything®",
+     "url": "https://feeds.feedburner.com/AffordAnythingFeed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Budgets Are Sexy",
+     "url": "https://feeds2.feedburner.com/budgetsaresexy",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Financial Samurai",
+     "url": "https://www.financialsamurai.com/feed/",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Frugalwoods",
+     "url": "https://feeds.feedburner.com/Frugalwoods",
+     "site": "",
+     "items": 12,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Good Financial Cents®",
+     "url": "https://www.goodfinancialcents.com/feed/",
+     "site": "",
+     "items": 8,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Invest Like the Best with Patrick O&apos;Shaughnessy",
+     "url": "http://investlikethebest.libsyn.com/rss",
+     "site": "",
+     "items": 14,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Learn To Trade The Market",
+     "url": "https://www.learntotradethemarket.com/feed",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Listen Money Matters - Free your inner financial badass. All the stuff you should know about personal finance.",
+     "url": "https://feeds.megaphone.fm/listen-money-matters",
+     "site": "",
+     "items": 52,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Making Sense Of Cents",
+     "url": "https://www.makingsenseofcents.com/feed",
+     "site": "",
+     "items": 8,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Millennial Money",
+     "url": "https://millennialmoney.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Money Crashers",
+     "url": "https://www.moneycrashers.com/feed/",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Money For the Rest of Us",
+     "url": "https://rss.art19.com/money-for-the-rest-of-us",
+     "site": "",
+     "items": 21,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Money Saving Mom®",
+     "url": "https://moneysavingmom.com/feed/",
+     "site": "",
+     "items": 23,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Money Under 30",
+     "url": "https://www.moneyunder30.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "MoneyNing",
+     "url": "http://feeds.feedburner.com/MoneyNing",
+     "site": "",
+     "items": 12,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "MyWifeQuitHerJob.com",
+     "url": "https://mywifequitherjob.com/feed/",
+     "site": "",
+     "items": 90,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Nerd&apos;s Eye View | Kitces.com",
+     "url": "http://feeds.feedblitz.com/kitcesnerdseyeview&x=1",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NerdWallet",
+     "url": "https://www.nerdwallet.com/blog/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Oblivious Investor",
+     "url": "https://obliviousinvestor.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Personal Finance",
+     "url": "https://reddit.com/r/personalfinance/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "SavingAdvice.com Blog",
+     "url": "https://www.savingadvice.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Side Hustle Nation",
+     "url": "https://www.sidehustlenation.com/feed",
+     "site": "",
+     "items": 4,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "So Money with Farnoosh Torabi",
+     "url": "https://feeds.megaphone.fm/somoney",
+     "site": "",
+     "items": 31,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Clark Howard Podcast",
+     "url": "https://feeds.megaphone.fm/clarkhoward",
+     "site": "",
+     "items": 24,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The College Investor",
+     "url": "https://thecollegeinvestor.com/feed/",
+     "site": "",
+     "items": 5,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Ramsey Show",
+     "url": "https://daveramsey.libsyn.com/rss",
+     "site": "",
+     "items": 9,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Stacking Benjamins Show",
+     "url": "https://feeds.megaphone.fm/stacking-benjamins",
+     "site": "",
+     "items": 14,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Well Kept Wallet",
+     "url": "https://wellkeptwallet.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Wise Bread",
+     "url": "http://feeds.killeraces.com/wisebread",
+     "site": "",
+     "items": 19,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "AVC",
+     "url": "https://avc.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Blog on Feld Thoughts",
+     "url": "https://feld.com/archives/tag/blog/feed",
+     "site": "",
+     "items": 18,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Entrepreneur – Latest",
+     "url": "http://feeds.feedburner.com/entrepreneur/latest",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Feld Thoughts",
+     "url": "https://feld.com/feed",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "GaryVee",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Hacker News: Front Page",
+     "url": "https://hnrss.org/frontpage",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Inc.com",
+     "url": "https://www.inc.com/rss/",
+     "site": "",
+     "items": 39,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Marie Forleo",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Masters of Scale",
+     "url": "https://rss.art19.com/masters-of-scale",
+     "site": "",
+     "items": 47,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Paul Graham: Essays",
+     "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+     "site": "",
+     "items": 219,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Product Hunt — The best new products, every day",
+     "url": "https://www.producthunt.com/feed",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Small Business Trends",
+     "url": "https://feeds2.feedburner.com/SmallBusinessTrends",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Smart Passive Income",
+     "url": "http://feeds.feedburner.com/smartpassiveincome",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Steve Blank",
+     "url": "https://steveblank.com/feed/",
+     "site": "",
+     "items": 8,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Startup Junkies Podcast",
+     "url": "https://startupjunkie.libsyn.com/rss",
+     "site": "",
+     "items": 23,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Tim Ferriss Show",
+     "url": "https://rss.art19.com/tim-ferriss-show",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "VentureBeat",
+     "url": "https://feeds.feedburner.com/venturebeat/SZYF",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "technology",
+   "name": "Technology",
+   "feeds": [
+    {
+     "title": "",
+     "url": "https://www.cyanogenmods.org/feed",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "All About Android (Audio)",
+     "url": "https://feeds.twit.tv/aaa.xml",
+     "site": "",
+     "items": 19,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Android",
+     "url": "https://www.reddit.com/r/android/.rss",
+     "site": "",
+     "items": 25,
+     "blocked": true
+    },
+    {
+     "title": "Android Authority",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Android Authority Podcast",
+     "url": "https://androidauthority.libsyn.com/rss",
+     "site": "",
+     "items": 29,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Android Central Podcast",
+     "url": "http://feeds.feedburner.com/AndroidCentralPodcast",
+     "site": "",
+     "items": 37,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Android Police",
+     "url": "http://feeds.feedburner.com/AndroidPolice",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Blind Android Users Podcast",
+     "url": "https://anchor.fm/s/4495abac/podcast/rss",
+     "site": "",
+     "items": 34,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cult of Android",
+     "url": "https://www.cultofandroid.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Droid Life – Opinionated Android news.",
+     "url": "https://www.droid-life.com/feed",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "GSMArena.com - Latest articles",
+     "url": "https://www.gsmarena.com/rss-news-reviews.php3",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Latest from Android Central",
+     "url": "http://feeds.androidcentral.com/androidcentral",
+     "site": "",
+     "items": 18,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Phandroid",
+     "url": "http://feeds2.feedburner.com/AndroidPhoneFans",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TalkAndroid",
+     "url": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "9to5Mac",
+     "url": "https://9to5mac.com/feed",
+     "site": "",
+     "items": 100,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Apple",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Apple Newsroom",
+     "url": "https://www.apple.com/newsroom/rss-feed.rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "AppleInsider News",
+     "url": "https://appleinsider.com/rss/news/",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cult of Mac",
+     "url": "https://www.cultofmac.com/feed",
+     "site": "",
+     "items": 55,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Daring Fireball",
+     "url": "https://daringfireball.net/feeds/main",
+     "site": "",
+     "items": 48,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "MacRumors",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "MacRumors: Mac News and Rumors - Mac Blog",
+     "url": "http://feeds.macrumors.com/MacRumors-Mac",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "MacStories",
+     "url": "https://www.macstories.net/feed",
+     "site": "",
+     "items": 24,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Macworld",
+     "url": "https://www.macworld.com/index.rss",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Marco.org",
+     "url": "https://marco.org/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "OS X Daily",
+     "url": "http://feeds.feedburner.com/osxdaily",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Loop",
+     "url": "https://www.loopinsight.com/feed",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "iMore - The #1 iPhone, iPad, and iPod touch blog",
+     "url": "http://feeds.feedburner.com/TheiPhoneBlog",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "r/Apple: Unofficial Apple Community",
+     "url": "https://www.reddit.com/r/apple/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "r/iPhone",
+     "url": "https://www.reddit.com/r/iphone/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Eurogamer.net Latest Articles Feed",
+     "url": "https://www.eurogamer.net/?format=rss",
+     "site": "",
+     "items": 100,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "GameSpot - All Content",
+     "url": "https://www.gamespot.com/feeds/mashup/",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "IGN Articles",
+     "url": "http://feeds.ign.com/ign/all",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Kotaku",
+     "url": "https://kotaku.com/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup",
+     "url": "https://www.makeupandbeautyblog.com/feed/",
+     "site": "",
+     "items": 5,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "PlayStation.Blog",
+     "url": "http://feeds.feedburner.com/psblog",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Polygon.com",
+     "url": "https://www.polygon.com/rss/index.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Rock, Paper, Shotgun",
+     "url": "http://feeds.feedburner.com/RockPaperShotgun",
+     "site": "",
+     "items": 88,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Steam RSS News Feed",
+     "url": "https://store.steampowered.com/feeds/news.xml",
+     "site": "",
+     "items": 21,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Ancient Gaming Noob",
+     "url": "http://feeds.feedburner.com/TheAncientGamingNoob",
+     "site": "",
+     "items": 5,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Escapist",
+     "url": "https://www.escapistmagazine.com/v2/feed/",
+     "site": "",
+     "items": 12,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TouchArcade - iPhone, iPad, Android Games Forum",
+     "url": "https://toucharcade.com/community/forums/-/index.rss",
+     "site": "",
+     "items": 8,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "r/gaming",
+     "url": "https://www.reddit.com/r/gaming.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Better Programming - Medium",
+     "url": "https://medium.com/feed/better-programming",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CodeNewbie",
+     "url": "http://feeds.codenewbie.org/cnpodcast.xml",
+     "site": "",
+     "items": 62,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Coding Horror",
+     "url": "https://feeds.feedburner.com/codinghorror",
+     "site": "",
+     "items": 12,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Developer Tea",
+     "url": "https://feeds.simplecast.com/dLRotFGk",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Engineering at Meta",
+     "url": "https://engineering.fb.com/feed/",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Engineering at Slack",
+     "url": "https://slack.engineering/feed",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Etsy Engineering | Code as Craft",
+     "url": "https://codeascraft.com/feed/atom/",
+     "site": "",
+     "items": 6,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "FLOSS Weekly (Audio)",
+     "url": "https://feeds.twit.tv/floss.xml",
+     "site": "",
+     "items": 26,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "GitLab",
+     "url": "https://about.gitlab.com/atom.xml",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Google Developers Blog",
+     "url": "http://feeds.feedburner.com/GDBcode",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Google TechTalks",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "HackerNoon.com - Medium",
+     "url": "https://medium.com/feed/hackernoon",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Hanselminutes with Scott Hanselman",
+     "url": "https://feeds.simplecast.com/gvtxUiIf",
+     "site": "",
+     "items": 45,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "InfoQ",
+     "url": "https://feed.infoq.com",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Java, SQL and jOOQ.",
+     "url": "https://blog.jooq.org/feed",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Joel on Software",
+     "url": "https://www.joelonsoftware.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Martin Fowler",
+     "url": "https://martinfowler.com/feed.atom",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Overflow - Buffer Resources",
+     "url": "https://buffer.com/resources/overflow/rss/",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Podcast Archives - Software Engineering Daily",
+     "url": "https://softwareengineeringdaily.com/category/podcast/feed",
+     "site": "",
+     "items": 29,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Programming Archives - The Crazy Programmer",
+     "url": "https://www.thecrazyprogrammer.com/category/programming/feed",
+     "site": "",
+     "items": 9,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Programming Throwdown",
+     "url": "http://feeds.feedburner.com/ProgrammingThrowdown",
+     "site": "",
+     "items": 44,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Robert Heaton | Blog",
+     "url": "https://robertheaton.com/feed.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Scott Hanselman&apos;s Blog",
+     "url": "http://feeds.hanselman.com/ScottHanselman",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Scripting News",
+     "url": "http://scripting.com/rss.xml",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Software Defined Talk",
+     "url": "https://feeds.fireside.fm/sdt/rss",
+     "site": "",
+     "items": 7,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Software Engineering Radio - The Podcast for Professional Software Developers",
+     "url": "http://feeds.feedburner.com/se-radio",
+     "site": "",
+     "items": 33,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "SoundCloud Backstage Blog",
+     "url": "https://developers.soundcloud.com/blog/blog.rss",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Stack Abuse",
+     "url": "https://stackabuse.com/rss/",
+     "site": "",
+     "items": 8,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Stack Overflow Blog",
+     "url": "https://stackoverflow.blog/feed/",
+     "site": "",
+     "items": 27,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The 6 Figure Developer",
+     "url": "http://6figuredev.com/feed/rss/",
+     "site": "",
+     "items": 27,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Airbnb Tech Blog - Medium",
+     "url": "https://medium.com/feed/airbnb-engineering",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Cynical Developer",
+     "url": "https://cynicaldeveloper.com/feed/podcast",
+     "site": "",
+     "items": 92,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The GitHub Blog",
+     "url": "https://github.blog/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The JetBrains Blog",
+     "url": "https://blog.jetbrains.com/feed",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The PIT Show: Reflections and Interviews in the Tech World",
+     "url": "https://feeds.transistor.fm/productivity-in-tech-podcast",
+     "site": "",
+     "items": 60,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Stack Overflow Podcast",
+     "url": "https://feeds.simplecast.com/XA_851k3",
+     "site": "",
+     "items": 36,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Women in Tech Show: A Technical Podcast",
+     "url": "https://thewomenintechshow.com/category/podcast/feed/",
+     "site": "",
+     "items": 14,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "overreacted — A blog by Dan Abramov",
+     "url": "https://overreacted.io/rss.xml",
+     "site": "",
+     "items": 58,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "programming",
+     "url": "https://www.reddit.com/r/programming/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Accidental Tech Podcast",
+     "url": "https://atp.fm/rss",
+     "site": "",
+     "items": 32,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Analog(ue)",
+     "url": "https://www.relay.fm/analogue/feed",
+     "site": "",
+     "items": 58,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Ars Technica - All content",
+     "url": "http://feeds.arstechnica.com/arstechnica/index",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CNET",
+     "url": "https://www.cnet.com/rss/news/",
+     "site": "",
+     "items": 25,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CNET",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Clockwise",
+     "url": "https://www.relay.fm/clockwise/feed",
+     "site": "",
+     "items": 95,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Crunch Hype",
+     "url": "http://feeds.feedburner.com/TechCrunch",
+     "site": "",
+     "items": 5,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Engadget - Technology News &amp; Expert Reviews",
+     "url": "https://www.engadget.com/rss.xml",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Gizmodo",
+     "url": "https://gizmodo.com/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Hacker News",
+     "url": "https://news.ycombinator.com/rss",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Lifehacker",
+     "url": "https://lifehacker.com/rss",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Linus Tech Tips",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Marques Brownlee",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Mashable",
+     "url": "http://feeds.mashable.com/Mashable",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Technology",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "ReadWrite",
+     "url": "https://readwrite.com/feed/",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Reply All",
+     "url": "https://feeds.megaphone.fm/replyall",
+     "site": "",
+     "items": 94,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Rocket",
+     "url": "https://www.relay.fm/rocket/feed",
+     "site": "",
+     "items": 55,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Slashdot",
+     "url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Stratechery by Ben Thompson",
+     "url": "http://stratechery.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Keyword",
+     "url": "https://www.blog.google/rss/",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Next Web",
+     "url": "https://thenextweb.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Verge",
+     "url": "https://www.theverge.com/rss/index.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Verge",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Vergecast",
+     "url": "https://feeds.megaphone.fm/vergecast",
+     "site": "",
+     "items": 32,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "This Week in Tech (Audio)",
+     "url": "https://feeds.twit.tv/twit.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Unbox Therapy",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "www.theregister.com - Articles",
+     "url": "https://www.theregister.com/headlines.rss",
+     "site": "",
+     "items": 43,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "A List Apart: The Full Feed",
+     "url": "https://alistapart.com/main/feed/",
+     "site": "",
+     "items": 13,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CSS-Tricks",
+     "url": "https://css-tricks.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Code Wall",
+     "url": "https://www.codewall.co.uk/feed/",
+     "site": "",
+     "items": 0,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "David Walsh Blog",
+     "url": "https://davidwalsh.name/feed",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sink In - Tech Learnings",
+     "url": "https://gosink.in/rss/",
+     "site": "",
+     "items": 13,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "science",
+   "name": "Science",
+   "feeds": [
+    {
+     "title": "&quot;Human Nature&quot; Blog Feed",
+     "url": "http://feeds.feedburner.com/ConservationInternationalBlog",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Bionic Planet: Reversing Climate Change by Restoring Nature",
+     "url": "https://bionicplanet.libsyn.com/rss",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Conservation International",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Environment",
+     "url": "https://www.reddit.com/r/environment/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Environment + Energy – The Conversation",
+     "url": "https://theconversation.com/au/environment/articles.atom",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/2647163.cms",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Environment | The Guardian",
+     "url": "https://www.theguardian.com/us/environment/rss",
+     "site": "",
+     "items": 34,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Good Good Good",
+     "url": "https://www.goodgoodgood.co/articles/rss.xml",
+     "site": "",
+     "items": 100,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NPR Topics: Environment",
+     "url": "https://feeds.npr.org/1025/rss.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Climate and Environment",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+     "site": "",
+     "items": 51,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Prakati India",
+     "url": "https://www.prakati.in/feed/",
+     "site": "",
+     "items": 5,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Vox",
+     "url": "https://www.vox.com/rss/energy-and-environment/index.xml",
+     "site": "",
+     "items": 0,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "60-Second Science",
+     "url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+     "site": "",
+     "items": 34,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "BBC News",
+     "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "site": "",
+     "items": 42,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Discovery",
+     "url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
+     "site": "",
+     "items": 52,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "FlowingData",
+     "url": "https://flowingdata.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Gastropod",
+     "url": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss",
+     "site": "",
+     "items": 53,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Hidden Brain",
+     "url": "https://feeds.npr.org/510308/podcast.xml",
+     "site": "",
+     "items": 40,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Invisibilia",
+     "url": "https://feeds.npr.org/510307/podcast.xml",
+     "site": "",
+     "items": 70,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Latest Science News -- ScienceDaily",
+     "url": "https://www.sciencedaily.com/rss/all.xml",
+     "site": "",
+     "items": 60,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Science",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+     "site": "",
+     "items": 27,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Nature",
+     "url": "https://www.nature.com/nature.rss",
+     "site": "",
+     "items": 76,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Phys.org - latest science and technology news stories",
+     "url": "https://phys.org/rss-feed/",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Popular Science",
+     "url": "https://www.popsci.com/arcio/rss/",
+     "site": "",
+     "items": 18,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Probably Science",
+     "url": "https://probablyscience.libsyn.com/rss",
+     "site": "",
+     "items": 51,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Radiolab",
+     "url": "http://feeds.wnyc.org/radiolab",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Reddit Science",
+     "url": "https://reddit.com/r/science/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Sawbones: A Marital Tour of Misguided Medicine",
+     "url": "https://feeds.simplecast.com/y1LF_sn2",
+     "site": "",
+     "items": 57,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Science",
+     "url": "https://gizmodo.com/tag/science/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Science Latest",
+     "url": "https://www.wired.com/feed/category/science/latest/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Scientific American Content: Global",
+     "url": "http://rss.sciam.com/ScientificAmerican-Global",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Shirtloads of Science",
+     "url": "https://shirtloadsofscience.libsyn.com/rss",
+     "site": "",
+     "items": 64,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TED Talks Daily",
+     "url": "https://pa.tedcdn.com/feeds/talks.rss",
+     "site": "",
+     "items": 65,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Infinite Monkey Cage",
+     "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+     "site": "",
+     "items": 60,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "This Week in Science – The Kickass Science Podcast",
+     "url": "http://www.twis.org/feed/",
+     "site": "",
+     "items": 49,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "/r/space: news, articles and discussion",
+     "url": "https://www.reddit.com/r/space/.rss?format=xml",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Latest from Space.com",
+     "url": "https://www.space.com/feeds/all",
+     "site": "",
+     "items": 18,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NASA",
+     "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+     "site": "",
+     "items": 9,
+     "blocked": true
+    },
+    {
+     "title": "New Scientist - Space",
+     "url": "https://www.newscientist.com/subject/space/feed/",
+     "site": "",
+     "items": 100,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Space | The Guardian",
+     "url": "https://www.theguardian.com/science/space/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "SpaceX",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "sport",
+   "name": "Sport",
+   "feeds": [
+    {
+     "title": "BBC Sport",
+     "url": "http://feeds.bbci.co.uk/sport/cricket/rss.xml",
+     "site": "",
+     "items": 52,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Can&apos;t Bowl Can&apos;t Throw Cricket Show",
+     "url": "http://feeds.feedburner.com/cantbowlcantthrow",
+     "site": "",
+     "items": 57,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricbuzz",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricket",
+     "url": "https://www.reddit.com/r/Cricket/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches | Times of India",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden",
+     "url": "https://www.wisden.com/feed",
+     "site": "",
+     "items": 26,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricket news from ESPN Cricinfo.com",
+     "url": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+     "site": "",
+     "items": 100,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricket | The Guardian",
+     "url": "https://www.theguardian.com/sport/cricket/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricket | The Indian Express",
+     "url": "https://indianexpress.com/section/sports/cricket/feed/",
+     "site": "",
+     "items": 190,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Cricket – The Roar",
+     "url": "https://www.theroar.com.au/cricket/feed/",
+     "site": "",
+     "items": 6,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "England &amp; Wales Cricket Board",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=ecbcricket",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NDTV News Search Records Found 1000",
+     "url": "http://feeds.feedburner.com/ndtvsports-cricket",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Pakistan Cricket",
+     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sri Lanka Cricket",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Stumped",
+     "url": "https://podcasts.files.bbci.co.uk/p02gsrmh.rss",
+     "site": "",
+     "items": 56,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Switch Hit Podcast",
+     "url": "https://feeds.megaphone.fm/ESP9247246951",
+     "site": "",
+     "items": 130,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Tailenders",
+     "url": "https://podcasts.files.bbci.co.uk/p02pcb4w.rss",
+     "site": "",
+     "items": 91,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Test Match Special",
+     "url": "https://podcasts.files.bbci.co.uk/p02nrsl2.rss",
+     "site": "",
+     "items": 84,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "cricket.com.au",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "BBC Sport",
+     "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+     "site": "",
+     "items": 89,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CNN.com - RSS Channel - Sport - Football",
+     "url": "http://rss.cnn.com/rss/edition_football.rss",
+     "site": "",
+     "items": 19,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "EFL Championship",
+     "url": "https://www.reddit.com/r/Championship/.rss?format=xml",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Football - The People&apos;s Sport",
+     "url": "https://www.reddit.com/r/football/.rss?format=xml",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Football News, Football Scores, Premier League, La Liga, ISL | The Hindu",
+     "url": "https://www.thehindu.com/sport/football/feeder/default.rss",
+     "site": "",
+     "items": 60,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Football | The Guardian",
+     "url": "https://www.theguardian.com/football/rss",
+     "site": "",
+     "items": 59,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Sports &gt; Soccer",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+     "site": "",
+     "items": 25,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Soccer News",
+     "url": "https://www.soccernews.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "",
+     "url": "https://sports.yahoo.com/rss/",
+     "site": "",
+     "items": 38,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "BBC Sport",
+     "url": "http://feeds.bbci.co.uk/sport/rss.xml",
+     "site": "",
+     "items": 80,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CNN.com - RSS Channel - Sport",
+     "url": "http://rss.cnn.com/rss/edition_sport.rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Sports",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+     "site": "",
+     "items": 0,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Reddit Sports",
+     "url": "https://www.reddit.com/r/sports.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Sport | The Guardian",
+     "url": "https://www.theguardian.com/uk/sport/rss",
+     "site": "",
+     "items": 53,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sports News - Latest Sports and Football News | Sky News",
+     "url": "http://feeds.skynews.com/feeds/rss/sports.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More",
+     "url": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sports | The Indian Express",
+     "url": "https://indianexpress.com/section/sports/feed/",
+     "site": "",
+     "items": 183,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sportskeeda",
+     "url": "https://www.sportskeeda.com/feed",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "www.espn.com - TOP",
+     "url": "https://www.espn.com/espn/rss/news",
+     "site": "",
+     "items": 48,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "BBC Sport",
+     "url": "http://feeds.bbci.co.uk/sport/tennis/rss.xml",
+     "site": "",
+     "items": 53,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "CNN.com - RSS Channel - Sport - Tennis",
+     "url": "http://rss.cnn.com/rss/edition_tennis.rss",
+     "site": "",
+     "items": 69,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Essential Tennis Podcast - Instruction, Lessons, Tips",
+     "url": "https://feed.podbean.com/essentialtennis/feed.xml",
+     "site": "",
+     "items": 77,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Sports &gt; Tennis",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Perfect Tennis",
+     "url": "https://www.perfect-tennis.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Tennis News &amp; Discussion",
+     "url": "https://www.reddit.com/r/tennis/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu",
+     "url": "https://www.thehindu.com/sport/tennis/feeder/default.rss",
+     "site": "",
+     "items": 60,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Tennis | The Guardian",
+     "url": "https://www.theguardian.com/sport/tennis/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Tennis | The Indian Express",
+     "url": "https://indianexpress.com/section/sports/tennis/feed/",
+     "site": "",
+     "items": 189,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "www.espn.com - TENNIS",
+     "url": "https://www.espn.com/espn/rss/tennis/news",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "arts-culture",
+   "name": "Arts & Culture",
+   "feeds": [
+    {
+     "title": "A Weekly Dose of Architecture Books",
+     "url": "http://feeds.feedburner.com/archidose",
+     "site": "",
+     "items": 9,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "ArchDaily Global",
+     "url": "http://feeds.feedburner.com/Archdaily",
+     "site": "",
+     "items": 24,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Architectural Digest",
+     "url": "https://www.architecturaldigest.com/feed/rss",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Architectural Digest",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Architecture",
+     "url": "https://www.reddit.com/r/architecture/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Architecture news and projects | Dezeen",
+     "url": "https://www.dezeen.com/architecture/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk",
+     "url": "https://design-milk.com/category/architecture/feed/",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Living Big In A Tiny House",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Architect’s Newspaper",
+     "url": "https://archpaper.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "architecture archives | designboom | architecture &amp; design magazine",
+     "url": "https://www.designboom.com/architecture/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "/Film",
+     "url": "https://feeds2.feedburner.com/slashfilm",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Ain&apos;t It Cool News Feed",
+     "url": "https://www.aintitcool.com/node/feed/",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More",
+     "url": "https://www.comingsoon.net/feed",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Deadline",
+     "url": "https://deadline.com/feed/",
+     "site": "",
+     "items": 12,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "FirstShowing.net",
+     "url": "https://www.firstshowing.net/feed/",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "IndieWire",
+     "url": "https://www.indiewire.com/feed",
+     "site": "",
+     "items": 12,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Movie News and Discussion",
+     "url": "https://reddit.com/r/movies/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Variety",
+     "url": "https://variety.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Consequence",
+     "url": "http://consequenceofsound.net/feed",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Metal Injection",
+     "url": "http://feeds.feedburner.com/metalinjection",
+     "site": "",
+     "items": 25,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Music Business Worldwide",
+     "url": "https://www.musicbusinessworldwide.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "RSS: News",
+     "url": "http://pitchfork.com/rss/news",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Song Exploder",
+     "url": "http://feed.songexploder.net/songexploder",
+     "site": "",
+     "items": 43,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "500px",
+     "url": "https://iso.500px.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Digital Photography School",
+     "url": "https://feeds.feedburner.com/DigitalPhotographySchool",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Light Stalking",
+     "url": "https://www.lightstalking.com/feed/",
+     "site": "",
+     "items": 6,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "One Big Photo",
+     "url": "http://feeds.feedburner.com/OneBigPhoto",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "PetaPixel",
+     "url": "https://petapixel.com/feed/",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Strobist",
+     "url": "http://feeds.feedburner.com/blogspot/WOBq",
+     "site": "",
+     "items": 25,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Boston Globe",
+     "url": "https://www.bostonglobe.com/rss/bigpicture",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TV",
+     "url": "https://www.bleedingcool.com/tv/feed/",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TV Fanatic",
+     "url": "https://www.tvfanatic.com/rss.xml",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine",
+     "url": "https://tvline.com/feed/",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "the TV addict",
+     "url": "http://feeds.feedburner.com/thetvaddict/AXob",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "📺Television News and Discussion",
+     "url": "https://reddit.com/r/television/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    }
+   ]
+  },
+  {
+   "id": "books-literary",
+   "name": "Books & Literary",
+   "feeds": [
+    {
+     "title": "A year of reading the world",
+     "url": "https://ayearofreadingtheworld.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Aestas Book Blog",
+     "url": "https://aestasbookblog.com/feed/",
+     "site": "",
+     "items": 9,
+     "strikes": 1
+    },
+    {
+     "title": "BOOK RIOT",
+     "url": "https://bookriot.com/feed/",
+     "site": "",
+     "items": 8,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Harry Potter and the Sacred Text",
+     "url": "https://rss.acast.com/harrypottersacredtext",
+     "site": "",
+     "items": 46,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Kirkus Reviews",
+     "url": "https://www.kirkusreviews.com/feeds/rss/",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "So many books, so little time",
+     "url": "https://reddit.com/r/books/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Wokeread",
+     "url": "https://wokeread.home.blog/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "style-living",
+   "name": "Style & Living",
+   "feeds": [
+    {
+     "title": "Beauty - ELLE",
+     "url": "https://www.elle.com/rss/beauty.xml/",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "From Head To Toe",
+     "url": "http://feeds.feedburner.com/frmheadtotoe",
+     "site": "",
+     "items": 13,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+     "url": "https://feeds.feedburner.com/intothegloss/oqoU",
+     "site": "",
+     "items": 24,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Refinery29",
+     "url": "https://www.refinery29.com/beauty/rss.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Beauty Look Book",
+     "url": "https://thebeautylookbook.com/feed",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Autocar RSS Feed",
+     "url": "https://www.autocar.co.uk/rss",
+     "site": "",
+     "items": 18,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "BMWBLOG",
+     "url": "https://feeds.feedburner.com/BmwBlog",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "BikeEXIF",
+     "url": "https://www.bikeexif.com/feed",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Car Body Design",
+     "url": "https://www.carbodydesign.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Carscoops",
+     "url": "https://www.carscoops.com/feed/",
+     "site": "",
+     "items": 14,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Formula 1",
+     "url": "https://www.reddit.com/r/formula1/.rss",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Jalopnik - Obsessed with the culture of cars",
+     "url": "https://jalopnik.com/rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Latest Content - Car and Driver",
+     "url": "https://www.caranddriver.com/rss/all.xml/",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Speedhunters",
+     "url": "http://feeds.feedburner.com/speedhunters",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The best vintage and classic cars for sale online | Bring a Trailer",
+     "url": "https://bringatrailer.com/feed/",
+     "site": "",
+     "items": 14,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TheTruthAboutCars",
+     "url": "https://www.thetruthaboutcars.com/feed/",
+     "site": "",
+     "items": 16,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "",
+     "url": "https://www.fashionbeans.com/rss-feed/?category=fashion",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Fashion - ELLE",
+     "url": "https://www.elle.com/rss/fashion.xml/",
+     "site": "",
+     "items": 50,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Fashion | The Guardian",
+     "url": "https://www.theguardian.com/fashion/rss",
+     "site": "",
+     "items": 32,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Latest from Who What Wear",
+     "url": "https://www.whowhatwear.com/rss",
+     "site": "",
+     "items": 9,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Style",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+     "site": "",
+     "items": 56,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "POPSUGAR Fashion",
+     "url": "https://www.popsugar.com/fashion/feed",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "Refinery29",
+     "url": "https://www.refinery29.com/fashion/rss.xml",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Binging with Babish",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=bgfilms",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Bon Appétit",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Budget Bytes",
+     "url": "http://budgetbytes.blogspot.com/feeds/posts/default",
+     "site": "",
+     "items": 3,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Chocolate &amp; Zucchini",
+     "url": "https://cnz.to/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "David Lebovitz",
+     "url": "https://www.davidlebovitz.com/feed/",
+     "site": "",
+     "items": 9,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Dinner: A Love Story",
+     "url": "http://www.dinneralovestory.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Food52",
+     "url": "http://feeds.feedburner.com/food52-TheAandMBlog",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Green Kitchen Stories",
+     "url": "https://greenkitchenstories.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "How Sweet Eats",
+     "url": "https://www.howsweeteats.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Kitchn | Inspiring cooks, nourishing homes",
+     "url": "https://www.thekitchn.com/main.rss",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Laura in the Kitchen",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Love and Lemons",
+     "url": "http://www.loveandlemons.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Love and Olive Oil",
+     "url": "https://www.loveandoliveoil.com/feed",
+     "site": "",
+     "items": 5,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Food",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+     "site": "",
+     "items": 22,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Serious Eats",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=SeriousEats",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Serious Eats: Recipes",
+     "url": "http://feeds.feedburner.com/seriouseats/recipes",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Shutterbean",
+     "url": "http://www.shutterbean.com/feed/",
+     "site": "",
+     "items": 6,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Sprouted Kitchen",
+     "url": "https://www.sproutedkitchen.com/home?format=rss",
+     "site": "",
+     "items": 18,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "smitten kitchen",
+     "url": "http://feeds.feedburner.com/smittenkitchen",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Adventure.com",
+     "url": "http://adventure.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Atlas Obscura - Latest Articles and Places",
+     "url": "https://www.atlasobscura.com/feeds/latest",
+     "site": "",
+     "items": 0,
+     "blocked": true
+    },
+    {
+     "title": "CNN.com - RSS Channel - App Travel Section",
+     "url": "http://rss.cnn.com/rss/cnn_travel.rss",
+     "site": "",
+     "items": 30,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Everything Everywhere",
+     "url": "http://feeds2.feedburner.com/EverythingEverywhere/",
+     "site": "",
+     "items": 11,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Live Life Travel",
+     "url": "https://www.livelifetravel.world/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Million Mile Secrets",
+     "url": "http://feeds.feedburner.com/MillionMileSecrets",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "NYT &gt; Travel",
+     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+     "site": "",
+     "items": 20,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "TFIL (Traveling to EVERY COUNTRY in A-Z Order)",
+     "url": "https://www.youtube.com/feeds/videos.xml?user=ECastee",
+     "site": "",
+     "items": 15,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Points Guy Articles",
+     "url": "http://feeds.feedburner.com/thepointsguy",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Travel Blog -",
+     "url": "https://www.nomadicmatt.com/travel-blog/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Travel Dudes",
+     "url": "https://www.traveldudes.com/feed/",
+     "site": "",
+     "items": 10,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Travel | The Guardian",
+     "url": "https://www.theguardian.com/uk/travel/rss",
+     "site": "",
+     "items": 22,
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "id": "local",
+   "name": "Local",
+   "feeds": [
+    {
+     "title": "Sydney Morning Herald - Latest News",
+     "url": "https://www.smh.com.au/rss/feed.xml",
+     "site": "",
+     "items": 20,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "ABC News",
+     "url": "https://www.abc.net.au/news/feed/1948/rss.xml",
+     "site": "",
+     "items": 25,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Age - Latest News",
+     "url": "https://www.theage.com.au/rss/feed.xml",
+     "site": "",
+     "items": 20,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "PerthNow",
+     "url": "https://www.perthnow.com.au/news/feed",
+     "site": "",
+     "items": 100,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "The Canberra Times - Local News",
+     "url": "https://www.canberratimes.com.au/rss.xml",
+     "site": "",
+     "items": 20,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Brisbane Times - Latest News",
+     "url": "https://www.brisbanetimes.com.au/rss/feed.xml",
+     "site": "",
+     "items": 20,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Independent Australia",
+     "url": "http://feeds.feedburner.com/IndependentAustralia",
+     "site": "",
+     "items": 100,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Business News - Latest Headlines",
+     "url": "https://www.businessnews.com.au/rssfeed/latest.rss",
+     "site": "",
+     "items": 10,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "InDaily",
+     "url": "https://indaily.com.au/feed/",
+     "site": "",
+     "items": 0,
+     "blocked": true,
+     "country": "AU"
+    },
+    {
+     "title": "Crikey",
+     "url": "https://feeds.feedburner.com/com/rCTl",
+     "site": "",
+     "items": 10,
+     "country": "AU",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "Michael West",
+     "url": "https://www.michaelwest.com.au/feed/",
+     "site": "",
+     "items": 0,
+     "blocked": true,
+     "country": "AU"
+    }
+   ]
+  }
+ ]
+}
