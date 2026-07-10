@@ -491,14 +491,6 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "NYT &gt; Sports &gt; Soccer",
-     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
-     "site": "",
-     "items": 25,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "CNN.com - RSS Channel - Sport",
      "url": "http://rss.cnn.com/rss/edition_sport.rss",
      "site": "",
@@ -544,14 +536,6 @@
      "url": "http://rss.cnn.com/rss/edition_tennis.rss",
      "site": "",
      "items": 69,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "NYT &gt; Sports &gt; Tennis",
-     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
-     "site": "",
-     "items": 20,
      "strikes": 0,
      "lastAlive": "2026-07-10"
     },
