@@ -297,7 +297,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "blocked": true
     },
     {
      "title": "Lifehacker",
@@ -575,14 +576,15 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "blocked": true
     },
     {
      "title": "www.espn.com - TOP",
      "url": "https://www.espn.com/espn/rss/news",
      "site": "",
      "items": 48,
-     "strikes": 0,
+     "strikes": 1,
      "lastAlive": "2026-07-10"
     },
     {
@@ -606,7 +608,7 @@
      "url": "https://www.espn.com/espn/rss/tennis/news",
      "site": "",
      "items": 11,
-     "strikes": 0,
+     "strikes": 1,
      "lastAlive": "2026-07-10"
     },
     {
@@ -645,7 +647,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "blocked": true
     },
     {
      "title": "/Film",
