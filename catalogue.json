@@ -358,14 +358,6 @@
      "protected": true
     },
     {
-     "title": "The Vergecast",
-     "url": "https://feeds.megaphone.fm/vergecast",
-     "site": "",
-     "items": 32,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "www.theregister.com - Articles",
      "url": "https://www.theregister.com/headlines.rss",
      "site": "",
