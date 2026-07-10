@@ -387,14 +387,6 @@
      "items": 100,
      "strikes": 0,
      "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "SpaceX",
-     "url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
     }
    ]
   },
@@ -404,7 +396,7 @@
    "feeds": [
     {
      "title": "BBC Sport",
-     "url": "http://feeds.bbci.co.uk/sport/cricket/rss.xml",
+     "url": "https://feeds.bbci.co.uk/sport/rss.xml",
      "site": "",
      "items": 52,
      "strikes": 0,
@@ -684,14 +676,6 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "Bon Appétit",
-     "url": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Food52",
      "url": "http://feeds.feedburner.com/food52-TheAandMBlog",
      "site": "",
@@ -712,14 +696,6 @@
      "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
      "site": "",
      "items": 22,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Serious Eats",
-     "url": "https://www.youtube.com/feeds/videos.xml?user=SeriousEats",
-     "site": "",
-     "items": 15,
      "strikes": 0,
      "lastAlive": "2026-07-10"
     },
