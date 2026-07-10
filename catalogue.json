@@ -300,6 +300,13 @@
      "items": 43,
      "strikes": 0,
      "lastAlive": "2026-07-10"
+    },
+    {
+     "title": "WIRED",
+     "url": "https://www.wired.com/feed/rss",
+     "site": "https://www.wired.com",
+     "strikes": 0,
+     "lastAlive": "2026-07-10"
     }
    ]
   },
