@@ -171,14 +171,6 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "AppleInsider News",
-     "url": "https://appleinsider.com/rss/news/",
-     "site": "",
-     "items": 50,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Daring Fireball",
      "url": "https://daringfireball.net/feeds/main",
      "site": "",
@@ -190,22 +182,6 @@
     {
      "title": "MacRumors: Mac News and Rumors - Mac Blog",
      "url": "http://feeds.macrumors.com/MacRumors-Mac",
-     "site": "",
-     "items": 20,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "MacStories",
-     "url": "https://www.macstories.net/feed",
-     "site": "",
-     "items": 24,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "The Loop",
-     "url": "https://www.loopinsight.com/feed",
      "site": "",
      "items": 20,
      "strikes": 0,
@@ -332,22 +308,6 @@
    "name": "Science",
    "feeds": [
     {
-     "title": "&quot;Human Nature&quot; Blog Feed",
-     "url": "http://feeds.feedburner.com/ConservationInternationalBlog",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Bionic Planet: Reversing Climate Change by Restoring Nature",
-     "url": "https://bionicplanet.libsyn.com/rss",
-     "site": "",
-     "items": 16,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Environment | The Guardian",
      "url": "https://www.theguardian.com/us/environment/rss",
      "site": "",
@@ -404,14 +364,6 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "Science Latest",
-     "url": "https://www.wired.com/feed/category/science/latest/rss",
-     "site": "",
-     "items": 20,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Scientific American Content: Global",
      "url": "http://rss.sciam.com/ScientificAmerican-Global",
      "site": "",
@@ -459,26 +411,10 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "Cricbuzz",
-     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Cricket news from ESPN Cricinfo.com",
      "url": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
      "site": "",
      "items": 100,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "cricket.com.au",
-     "url": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
-     "site": "",
-     "items": 15,
      "strikes": 0,
      "lastAlive": "2026-07-10"
     },
@@ -782,14 +718,6 @@
     {
      "title": "Serious Eats",
      "url": "https://www.youtube.com/feeds/videos.xml?user=SeriousEats",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Serious Eats: Recipes",
-     "url": "http://feeds.feedburner.com/seriouseats/recipes",
      "site": "",
      "items": 15,
      "strikes": 0,
