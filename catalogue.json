@@ -60,30 +60,6 @@
    "name": "Business",
    "feeds": [
     {
-     "title": "Bloomberg Originals",
-     "url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Breaking News on Seeking Alpha",
-     "url": "https://seekingalpha.com/market_currents.xml",
-     "site": "",
-     "items": 7,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Business Insider",
-     "url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
-     "site": "",
-     "items": 15,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Economic Times",
      "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
      "site": "",
@@ -116,14 +92,6 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/news/rssindex",
-     "site": "",
-     "items": 48,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "Entrepreneur – Latest",
      "url": "http://feeds.feedburner.com/entrepreneur/latest",
      "site": "",
@@ -136,14 +104,6 @@
      "url": "https://www.inc.com/rss/",
      "site": "",
      "items": 39,
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Product Hunt — The best new products, every day",
-     "url": "https://www.producthunt.com/feed",
-     "site": "",
-     "items": 50,
      "strikes": 0,
      "lastAlive": "2026-07-10"
     },
@@ -987,29 +947,11 @@
      "lastAlive": "2026-07-10"
     },
     {
-     "title": "Business News - Latest Headlines",
-     "url": "https://www.businessnews.com.au/rssfeed/latest.rss",
-     "site": "",
-     "items": 10,
-     "country": "AU",
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
      "title": "InDaily",
      "url": "https://indaily.com.au/feed/",
      "site": "",
      "items": 0,
      "blocked": true,
-     "country": "AU",
-     "strikes": 0,
-     "lastAlive": "2026-07-10"
-    },
-    {
-     "title": "Crikey",
-     "url": "https://feeds.feedburner.com/com/rCTl",
-     "site": "",
-     "items": 10,
      "country": "AU",
      "strikes": 0,
      "lastAlive": "2026-07-10"
