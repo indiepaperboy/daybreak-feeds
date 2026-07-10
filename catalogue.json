@@ -11,7 +11,8 @@
      "site": "",
      "items": 29,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "BBC"
     },
     {
      "title": "CNN.com - RSS Channel - World",
@@ -19,7 +20,8 @@
      "site": "",
      "items": 29,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "CNN"
     },
     {
      "title": "International: Top News And Analysis",
@@ -27,7 +29,8 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "CNBC"
     },
     {
      "title": "NYT &gt; World News",
@@ -35,7 +38,8 @@
      "site": "",
      "items": 55,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times"
     },
     {
      "title": "Top stories - Google News",
@@ -43,7 +47,8 @@
      "site": "",
      "items": 38,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Google News"
     },
     {
      "title": "World news | The Guardian",
@@ -51,35 +56,40 @@
      "site": "",
      "items": 45,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Guardian"
     },
     {
      "title": "Al Jazeera",
      "url": "https://www.aljazeera.com/xml/rss/all.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Al Jazeera"
     },
     {
      "title": "Axios",
      "url": "https://api.axios.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Axios"
     },
     {
      "title": "Time",
      "url": "https://time.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Time"
     },
     {
      "title": "NPR News",
      "url": "https://feeds.npr.org/1001/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "NPR"
     }
    ]
   },
@@ -93,7 +103,8 @@
      "site": "",
      "items": 76,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Economic Times"
     },
     {
      "title": "Forbes - Business",
@@ -101,7 +112,8 @@
      "site": "",
      "items": 25,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Forbes"
     },
     {
      "title": "Fortune | FORTUNE",
@@ -109,7 +121,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Fortune"
     },
     {
      "title": "US Top News and Analysis",
@@ -117,7 +130,8 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "CNBC"
     },
     {
      "title": "Entrepreneur – Latest",
@@ -125,7 +139,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Entrepreneur"
     },
     {
      "title": "Inc.com",
@@ -133,7 +148,8 @@
      "site": "",
      "items": 39,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Inc."
     },
     {
      "title": "VentureBeat",
@@ -141,21 +157,24 @@
      "site": "",
      "items": 7,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "VentureBeat"
     },
     {
      "title": "Quartz",
      "url": "https://qz.com/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Quartz"
     },
     {
      "title": "Fast Company",
      "url": "https://www.fastcompany.com/latest/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Fast Company"
     },
     {
      "title": "MarketWatch",
@@ -175,42 +194,48 @@
      "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "BBC"
     },
     {
      "title": "Politics | The Guardian",
      "url": "https://www.theguardian.com/politics/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Guardian"
     },
     {
      "title": "Politico",
      "url": "https://rss.politico.com/politics-news.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Politico"
     },
     {
      "title": "The Hill",
      "url": "https://thehill.com/homenews/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Hill"
     },
     {
      "title": "ABC News · Politics",
      "url": "https://www.abc.net.au/news/feed/104217372/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ABC News"
     },
     {
      "title": "NPR Politics",
      "url": "https://feeds.npr.org/1014/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "NPR"
     }
    ]
   },
@@ -224,7 +249,8 @@
      "site": "",
      "items": 100,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "9to5Mac"
     },
     {
      "title": "Daring Fireball",
@@ -233,7 +259,8 @@
      "items": 48,
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "protected": true
+     "protected": true,
+     "name": "Daring Fireball"
     },
     {
      "title": "MacRumors: Mac News and Rumors - Mac Blog",
@@ -241,7 +268,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "MacRumors"
     },
     {
      "title": "IGN Articles",
@@ -249,7 +277,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "IGN"
     },
     {
      "title": "Polygon.com",
@@ -257,7 +286,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Polygon"
     },
     {
      "title": "Ars Technica - All content",
@@ -265,7 +295,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Ars Technica"
     },
     {
      "title": "CNET",
@@ -273,7 +304,8 @@
      "site": "",
      "items": 25,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "CNET"
     },
     {
      "title": "Engadget - Technology News &amp; Expert Reviews",
@@ -281,7 +313,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Engadget"
     },
     {
      "title": "Gizmodo",
@@ -290,7 +323,8 @@
      "items": 20,
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "blocked": true
+     "blocked": true,
+     "name": "Gizmodo"
     },
     {
      "title": "Lifehacker",
@@ -298,7 +332,8 @@
      "site": "",
      "items": 16,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Lifehacker"
     },
     {
      "title": "Mashable",
@@ -306,7 +341,8 @@
      "site": "",
      "items": 15,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Mashable"
     },
     {
      "title": "NYT &gt; Technology",
@@ -314,7 +350,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times"
     },
     {
      "title": "Slashdot",
@@ -322,7 +359,8 @@
      "site": "",
      "items": 16,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Slashdot"
     },
     {
      "title": "Stratechery by Ben Thompson",
@@ -330,7 +368,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Stratechery"
     },
     {
      "title": "The Next Web",
@@ -338,7 +377,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Next Web"
     },
     {
      "title": "The Verge",
@@ -347,7 +387,8 @@
      "items": 10,
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "protected": true
+     "protected": true,
+     "name": "The Verge"
     },
     {
      "title": "www.theregister.com - Articles",
@@ -355,42 +396,48 @@
      "site": "",
      "items": 43,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Register"
     },
     {
      "title": "WIRED",
      "url": "https://www.wired.com/feed/rss",
      "site": "https://www.wired.com",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "WIRED"
     },
     {
      "title": "TechCrunch",
      "url": "https://techcrunch.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "TechCrunch"
     },
     {
      "title": "MIT Technology Review",
      "url": "https://www.technologyreview.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "MIT Technology Review"
     },
     {
      "title": "404 Media",
      "url": "https://www.404media.co/rss/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "404 Media"
     },
     {
      "title": "Rest of World",
      "url": "https://restofworld.org/feed/latest/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Rest of World"
     }
    ]
   },
@@ -404,7 +451,8 @@
      "site": "",
      "items": 34,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Guardian"
     },
     {
      "title": "Vox",
@@ -412,7 +460,8 @@
      "site": "",
      "items": 0,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Vox"
     },
     {
      "title": "Latest Science News -- ScienceDaily",
@@ -420,7 +469,8 @@
      "site": "",
      "items": 60,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ScienceDaily"
     },
     {
      "title": "NYT &gt; Science",
@@ -428,7 +478,8 @@
      "site": "",
      "items": 27,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times"
     },
     {
      "title": "Nature",
@@ -436,7 +487,8 @@
      "site": "",
      "items": 76,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Nature"
     },
     {
      "title": "Phys.org - latest science and technology news stories",
@@ -444,7 +496,8 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Phys.org"
     },
     {
      "title": "Popular Science",
@@ -452,7 +505,8 @@
      "site": "",
      "items": 18,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Popular Science"
     },
     {
      "title": "Scientific American Content: Global",
@@ -460,7 +514,8 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Scientific American"
     },
     {
      "title": "NASA",
@@ -469,7 +524,8 @@
      "items": 9,
      "blocked": true,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "NASA"
     },
     {
      "title": "New Scientist - Space",
@@ -477,35 +533,40 @@
      "site": "",
      "items": 100,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "New Scientist"
     },
     {
      "title": "Quanta Magazine",
      "url": "https://api.quantamagazine.org/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Quanta Magazine"
     },
     {
      "title": "Ars Technica Science",
      "url": "https://feeds.arstechnica.com/arstechnica/science",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Ars Technica"
     },
     {
      "title": "Live Science",
      "url": "https://www.livescience.com/feeds/all",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Live Science"
     },
     {
      "title": "Space.com",
      "url": "https://www.space.com/feeds/all",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Space.com"
     }
    ]
   },
@@ -519,7 +580,8 @@
      "site": "",
      "items": 52,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "BBC"
     },
     {
      "title": "Cricket news from ESPN Cricinfo.com",
@@ -527,7 +589,8 @@
      "site": "",
      "items": 100,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ESPN Cricinfo"
     },
     {
      "title": "CNN.com - RSS Channel - Sport",
@@ -535,7 +598,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "CNN"
     },
     {
      "title": "NYT &gt; Sports",
@@ -543,7 +607,8 @@
      "site": "",
      "items": 0,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times"
     },
     {
      "title": "Sport | The Guardian",
@@ -551,7 +616,8 @@
      "site": "",
      "items": 53,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Guardian"
     },
     {
      "title": "Sportskeeda",
@@ -560,7 +626,8 @@
      "items": 50,
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "blocked": true
+     "blocked": true,
+     "name": "Sportskeeda"
     },
     {
      "title": "www.espn.com - TOP",
@@ -568,7 +635,8 @@
      "site": "",
      "items": 48,
      "strikes": 1,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ESPN"
     },
     {
      "title": "Sportico",
@@ -576,21 +644,24 @@
      "site": "",
      "protected": true,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Sportico"
     },
     {
      "title": "Sky Sports",
      "url": "https://www.skysports.com/rss/12040",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Sky Sports"
     },
     {
      "title": "SB Nation",
      "url": "https://www.sbnation.com/rss/index.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "SB Nation"
     }
    ]
   },
@@ -604,7 +675,8 @@
      "site": "",
      "items": 24,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ArchDaily"
     },
     {
      "title": "Architectural Digest",
@@ -612,7 +684,8 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Architectural Digest"
     },
     {
      "title": "The Architect’s Newspaper",
@@ -621,7 +694,8 @@
      "items": 10,
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "blocked": true
+     "blocked": true,
+     "name": "The Architect's Newspaper"
     },
     {
      "title": "/Film",
@@ -629,7 +703,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "/Film"
     },
     {
      "title": "Deadline",
@@ -637,7 +712,8 @@
      "site": "",
      "items": 12,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Deadline"
     },
     {
      "title": "IndieWire",
@@ -645,7 +721,8 @@
      "site": "",
      "items": 12,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "IndieWire"
     },
     {
      "title": "Variety",
@@ -653,7 +730,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Variety"
     },
     {
      "title": "Consequence",
@@ -661,7 +739,8 @@
      "site": "",
      "items": 15,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Consequence"
     },
     {
      "title": "Digital Photography School",
@@ -669,7 +748,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Digital Photography School"
     },
     {
      "title": "PetaPixel",
@@ -677,7 +757,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "PetaPixel"
     },
     {
      "title": "TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine",
@@ -685,35 +766,40 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "TVLine"
     },
     {
      "title": "Pitchfork",
      "url": "https://pitchfork.com/rss/news/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Pitchfork"
     },
     {
      "title": "Rolling Stone",
      "url": "https://www.rollingstone.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Rolling Stone"
     },
     {
      "title": "The Hollywood Reporter",
      "url": "https://www.hollywoodreporter.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Hollywood Reporter"
     },
     {
      "title": "Hyperallergic",
      "url": "https://hyperallergic.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Hyperallergic"
     }
    ]
   },
@@ -727,7 +813,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "A Year of Reading the World"
     },
     {
      "title": "BOOK RIOT",
@@ -735,7 +822,8 @@
      "site": "",
      "items": 8,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Book Riot"
     },
     {
      "title": "Kirkus Reviews",
@@ -743,42 +831,48 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Kirkus Reviews"
     },
     {
      "title": "Literary Hub",
      "url": "https://lithub.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Literary Hub"
     },
     {
      "title": "The Paris Review",
      "url": "https://www.theparisreview.org/blog/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Paris Review"
     },
     {
      "title": "NYT · Books",
      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times"
     },
     {
      "title": "The Millions",
      "url": "https://themillions.com/feed",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Millions"
     },
     {
      "title": "Electric Literature",
      "url": "https://electricliterature.com/feed",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Electric Literature"
     }
    ]
   },
@@ -792,7 +886,8 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ELLE · Beauty"
     },
     {
      "title": "Refinery29",
@@ -800,7 +895,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Refinery29"
     },
     {
      "title": "Autocar RSS Feed",
@@ -808,7 +904,8 @@
      "site": "",
      "items": 18,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Autocar"
     },
     {
      "title": "Carscoops",
@@ -816,7 +913,8 @@
      "site": "",
      "items": 14,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Carscoops"
     },
     {
      "title": "Jalopnik - Obsessed with the culture of cars",
@@ -824,7 +922,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Jalopnik"
     },
     {
      "title": "Fashion - ELLE",
@@ -832,7 +931,8 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "ELLE · Fashion"
     },
     {
      "title": "Latest from Who What Wear",
@@ -840,7 +940,8 @@
      "site": "",
      "items": 9,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Who What Wear"
     },
     {
      "title": "NYT &gt; Style",
@@ -848,7 +949,8 @@
      "site": "",
      "items": 56,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times · Fashion"
     },
     {
      "title": "Food52",
@@ -856,7 +958,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Food52"
     },
     {
      "title": "Kitchn | Inspiring cooks, nourishing homes",
@@ -864,7 +967,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Kitchn"
     },
     {
      "title": "NYT &gt; Food",
@@ -872,7 +976,8 @@
      "site": "",
      "items": 22,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times"
     },
     {
      "title": "smitten kitchen",
@@ -880,7 +985,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Smitten Kitchen"
     },
     {
      "title": "Atlas Obscura - Latest Articles and Places",
@@ -889,7 +995,8 @@
      "items": 0,
      "blocked": true,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Atlas Obscura"
     },
     {
      "title": "NYT &gt; Travel",
@@ -897,7 +1004,8 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The New York Times · Travel"
     },
     {
      "title": "The Points Guy Articles",
@@ -905,7 +1013,8 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Points Guy"
     },
     {
      "title": "Hodinkee",
@@ -913,28 +1022,32 @@
      "site": "",
      "protected": true,
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Hodinkee"
     },
     {
      "title": "Eater",
      "url": "https://www.eater.com/rss/index.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Eater"
     },
     {
      "title": "Bon Appétit",
      "url": "https://www.bonappetit.com/feed/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Bon Appétit"
     },
     {
      "title": "GQ",
      "url": "https://www.gq.com/feed/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "GQ"
     }
    ]
   },
@@ -949,7 +1062,8 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Sydney Morning Herald"
     },
     {
      "title": "ABC News",
@@ -959,7 +1073,8 @@
      "country": "AU",
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "protected": true
+     "protected": true,
+     "name": "ABC News"
     },
     {
      "title": "The Age - Latest News",
@@ -968,7 +1083,8 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Age"
     },
     {
      "title": "PerthNow",
@@ -977,7 +1093,8 @@
      "items": 100,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "PerthNow"
     },
     {
      "title": "The Canberra Times - Local News",
@@ -986,7 +1103,8 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "The Canberra Times"
     },
     {
      "title": "Brisbane Times - Latest News",
@@ -995,7 +1113,8 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Brisbane Times"
     },
     {
      "title": "Independent Australia",
@@ -1004,7 +1123,8 @@
      "items": 100,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Independent Australia"
     },
     {
      "title": "InDaily",
@@ -1014,7 +1134,8 @@
      "blocked": true,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "InDaily"
     },
     {
      "title": "Michael West",
@@ -1024,7 +1145,8 @@
      "blocked": true,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-07-10"
+     "lastAlive": "2026-07-10",
+     "name": "Michael West"
     },
     {
      "title": "The Guardian Australia",
@@ -1032,7 +1154,8 @@
      "site": "",
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "country": "AU"
+     "country": "AU",
+     "name": "The Guardian"
     },
     {
      "title": "The Conversation",
@@ -1040,7 +1163,8 @@
      "site": "",
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "country": "AU"
+     "country": "AU",
+     "name": "The Conversation"
     },
     {
      "title": "SBS News",
@@ -1048,7 +1172,8 @@
      "site": "",
      "strikes": 0,
      "lastAlive": "2026-07-10",
-     "country": "AU"
+     "country": "AU",
+     "name": "SBS News"
     }
    ]
   }
