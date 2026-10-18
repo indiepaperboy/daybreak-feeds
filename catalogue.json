@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11",
+ "generatedAt": "2026-10-18",
  "sections": [
   {
    "id": "news",
@@ -11,7 +11,7 @@
      "site": "",
      "items": 29,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "BBC"
     },
     {
@@ -20,7 +20,7 @@
      "site": "",
      "items": 29,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "CNN"
     },
     {
@@ -29,7 +29,7 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "CNBC"
     },
     {
@@ -38,7 +38,7 @@
      "site": "",
      "items": 55,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times"
     },
     {
@@ -47,7 +47,7 @@
      "site": "",
      "items": 38,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Google News"
     },
     {
@@ -56,7 +56,7 @@
      "site": "",
      "items": 45,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Guardian"
     },
     {
@@ -64,7 +64,7 @@
      "url": "https://www.aljazeera.com/xml/rss/all.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Al Jazeera"
     },
     {
@@ -72,7 +72,7 @@
      "url": "https://api.axios.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Axios"
     },
     {
@@ -80,7 +80,7 @@
      "url": "https://time.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Time"
     },
     {
@@ -88,7 +88,7 @@
      "url": "https://feeds.npr.org/1001/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "NPR"
     }
    ]
@@ -103,7 +103,7 @@
      "site": "",
      "items": 76,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Economic Times"
     },
     {
@@ -112,7 +112,7 @@
      "site": "",
      "items": 25,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Forbes"
     },
     {
@@ -121,7 +121,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Fortune"
     },
     {
@@ -130,7 +130,7 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "CNBC"
     },
     {
@@ -139,7 +139,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Entrepreneur"
     },
     {
@@ -148,7 +148,7 @@
      "site": "",
      "items": 39,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Inc."
     },
     {
@@ -157,7 +157,7 @@
      "site": "",
      "items": 7,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "VentureBeat"
     },
     {
@@ -165,7 +165,7 @@
      "url": "https://qz.com/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Quartz"
     },
     {
@@ -173,7 +173,7 @@
      "url": "https://www.fastcompany.com/latest/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Fast Company"
     },
     {
@@ -181,7 +181,7 @@
      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11"
+     "lastAlive": "2026-10-18"
     }
    ]
   },
@@ -194,7 +194,7 @@
      "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "BBC"
     },
     {
@@ -202,7 +202,7 @@
      "url": "https://www.theguardian.com/politics/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Guardian"
     },
     {
@@ -210,7 +210,7 @@
      "url": "https://rss.politico.com/politics-news.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Politico"
     },
     {
@@ -218,7 +218,7 @@
      "url": "https://thehill.com/homenews/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Hill"
     },
     {
@@ -226,7 +226,7 @@
      "url": "https://www.abc.net.au/news/feed/104217372/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "ABC News"
     },
     {
@@ -234,7 +234,7 @@
      "url": "https://feeds.npr.org/1014/rss.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "NPR"
     }
    ]
@@ -249,7 +249,7 @@
      "site": "",
      "items": 100,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "9to5Mac"
     },
     {
@@ -258,7 +258,7 @@
      "site": "",
      "items": 48,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "protected": true,
      "name": "Daring Fireball"
     },
@@ -268,7 +268,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "MacRumors"
     },
     {
@@ -277,7 +277,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "IGN"
     },
     {
@@ -286,7 +286,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Polygon"
     },
     {
@@ -295,7 +295,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Ars Technica"
     },
     {
@@ -304,7 +304,7 @@
      "site": "",
      "items": 25,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "CNET"
     },
     {
@@ -313,7 +313,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Engadget"
     },
     {
@@ -332,7 +332,7 @@
      "site": "",
      "items": 16,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Lifehacker"
     },
     {
@@ -341,7 +341,7 @@
      "site": "",
      "items": 15,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Mashable"
     },
     {
@@ -350,7 +350,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times"
     },
     {
@@ -359,7 +359,7 @@
      "site": "",
      "items": 16,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Slashdot"
     },
     {
@@ -378,7 +378,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Next Web"
     },
     {
@@ -387,7 +387,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "protected": true,
      "name": "The Verge"
     },
@@ -397,7 +397,7 @@
      "site": "",
      "items": 43,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Register"
     },
     {
@@ -405,7 +405,7 @@
      "url": "https://www.wired.com/feed/rss",
      "site": "https://www.wired.com",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "WIRED"
     },
     {
@@ -413,7 +413,7 @@
      "url": "https://techcrunch.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "TechCrunch"
     },
     {
@@ -421,7 +421,7 @@
      "url": "https://www.technologyreview.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "MIT Technology Review"
     },
     {
@@ -429,7 +429,7 @@
      "url": "https://www.404media.co/rss/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "404 Media"
     },
     {
@@ -453,7 +453,7 @@
      "site": "",
      "items": 34,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Guardian"
     },
     {
@@ -462,7 +462,7 @@
      "site": "",
      "items": 0,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Vox"
     },
     {
@@ -471,7 +471,7 @@
      "site": "",
      "items": 60,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "ScienceDaily"
     },
     {
@@ -480,7 +480,7 @@
      "site": "",
      "items": 27,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times"
     },
     {
@@ -489,7 +489,7 @@
      "site": "",
      "items": 76,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Nature"
     },
     {
@@ -498,7 +498,7 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Phys.org"
     },
     {
@@ -507,7 +507,7 @@
      "site": "",
      "items": 18,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Popular Science"
     },
     {
@@ -516,7 +516,7 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Scientific American"
     },
     {
@@ -525,9 +525,8 @@
      "site": "",
      "items": 9,
      "strikes": 0,
-     "lastAlive": "2026-09-20",
-     "name": "NASA",
-     "blocked": true
+     "lastAlive": "2026-10-18",
+     "name": "NASA"
     },
     {
      "title": "New Scientist - Space",
@@ -535,7 +534,7 @@
      "site": "",
      "items": 100,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "New Scientist"
     },
     {
@@ -543,7 +542,7 @@
      "url": "https://api.quantamagazine.org/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Quanta Magazine"
     },
     {
@@ -551,7 +550,7 @@
      "url": "https://feeds.arstechnica.com/arstechnica/science",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Ars Technica"
     },
     {
@@ -559,7 +558,7 @@
      "url": "https://www.livescience.com/feeds/all",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Live Science"
     },
     {
@@ -567,7 +566,7 @@
      "url": "https://www.space.com/feeds/all",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Space.com"
     }
    ]
@@ -582,7 +581,7 @@
      "site": "",
      "items": 52,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "BBC"
     },
     {
@@ -591,7 +590,7 @@
      "site": "",
      "items": 100,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "ESPN Cricinfo"
     },
     {
@@ -600,7 +599,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "CNN"
     },
     {
@@ -609,7 +608,7 @@
      "site": "",
      "items": 0,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times"
     },
     {
@@ -618,7 +617,7 @@
      "site": "",
      "items": 53,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Guardian"
     },
     {
@@ -637,7 +636,7 @@
      "site": "",
      "protected": true,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Sportico"
     },
     {
@@ -645,7 +644,7 @@
      "url": "https://www.skysports.com/rss/12040",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Sky Sports"
     },
     {
@@ -653,7 +652,7 @@
      "url": "https://www.sbnation.com/rss/index.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "SB Nation"
     }
    ]
@@ -668,7 +667,7 @@
      "site": "",
      "items": 24,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "ArchDaily"
     },
     {
@@ -677,7 +676,7 @@
      "site": "",
      "items": 30,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Architectural Digest"
     },
     {
@@ -696,7 +695,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "/Film"
     },
     {
@@ -705,7 +704,7 @@
      "site": "",
      "items": 12,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Deadline"
     },
     {
@@ -714,7 +713,7 @@
      "site": "",
      "items": 12,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "IndieWire"
     },
     {
@@ -723,7 +722,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Variety"
     },
     {
@@ -732,7 +731,7 @@
      "site": "",
      "items": 15,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Consequence"
     },
     {
@@ -741,7 +740,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Digital Photography School"
     },
     {
@@ -750,7 +749,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "PetaPixel"
     },
     {
@@ -759,7 +758,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "TVLine"
     },
     {
@@ -767,7 +766,7 @@
      "url": "https://pitchfork.com/rss/news/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Pitchfork"
     },
     {
@@ -775,7 +774,7 @@
      "url": "https://www.rollingstone.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Rolling Stone"
     },
     {
@@ -783,7 +782,7 @@
      "url": "https://www.hollywoodreporter.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Hollywood Reporter"
     },
     {
@@ -791,7 +790,7 @@
      "url": "https://hyperallergic.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Hyperallergic"
     }
    ]
@@ -816,7 +815,7 @@
      "site": "",
      "items": 8,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Book Riot"
     },
     {
@@ -825,7 +824,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Kirkus Reviews"
     },
     {
@@ -833,7 +832,7 @@
      "url": "https://lithub.com/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Literary Hub"
     },
     {
@@ -841,7 +840,7 @@
      "url": "https://www.theparisreview.org/blog/feed/",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Paris Review"
     },
     {
@@ -849,7 +848,7 @@
      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times"
     },
     {
@@ -857,7 +856,7 @@
      "url": "https://themillions.com/feed",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Millions"
     },
     {
@@ -881,7 +880,7 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "ELLE · Beauty"
     },
     {
@@ -890,7 +889,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Refinery29"
     },
     {
@@ -899,7 +898,7 @@
      "site": "",
      "items": 18,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Autocar"
     },
     {
@@ -908,7 +907,7 @@
      "site": "",
      "items": 14,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Carscoops"
     },
     {
@@ -917,7 +916,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Jalopnik"
     },
     {
@@ -926,7 +925,7 @@
      "site": "",
      "items": 50,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "ELLE · Fashion"
     },
     {
@@ -935,7 +934,7 @@
      "site": "",
      "items": 9,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Who What Wear"
     },
     {
@@ -944,7 +943,7 @@
      "site": "",
      "items": 56,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times · Fashion"
     },
     {
@@ -953,7 +952,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Food52"
     },
     {
@@ -962,7 +961,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Kitchn"
     },
     {
@@ -971,7 +970,7 @@
      "site": "",
      "items": 22,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times"
     },
     {
@@ -980,7 +979,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Smitten Kitchen"
     },
     {
@@ -989,7 +988,7 @@
      "site": "",
      "items": 0,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Atlas Obscura"
     },
     {
@@ -998,7 +997,7 @@
      "site": "",
      "items": 20,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The New York Times · Travel"
     },
     {
@@ -1007,7 +1006,7 @@
      "site": "",
      "items": 10,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Points Guy"
     },
     {
@@ -1016,7 +1015,7 @@
      "site": "",
      "protected": true,
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Hodinkee"
     },
     {
@@ -1024,7 +1023,7 @@
      "url": "https://www.eater.com/rss/index.xml",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Eater"
     },
     {
@@ -1032,7 +1031,7 @@
      "url": "https://www.bonappetit.com/feed/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Bon Appétit"
     },
     {
@@ -1040,7 +1039,7 @@
      "url": "https://www.gq.com/feed/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "GQ"
     }
    ]
@@ -1056,7 +1055,7 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Sydney Morning Herald"
     },
     {
@@ -1066,7 +1065,7 @@
      "items": 25,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "protected": true,
      "name": "ABC News"
     },
@@ -1077,7 +1076,7 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Age"
     },
     {
@@ -1087,7 +1086,7 @@
      "items": 100,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "PerthNow"
     },
     {
@@ -1097,7 +1096,7 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "The Canberra Times"
     },
     {
@@ -1107,7 +1106,7 @@
      "items": 20,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Brisbane Times"
     },
     {
@@ -1117,7 +1116,7 @@
      "items": 100,
      "country": "AU",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "name": "Independent Australia"
     },
     {
@@ -1147,7 +1146,7 @@
      "url": "https://www.theguardian.com/australia-news/rss",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "country": "AU",
      "name": "The Guardian"
     },
@@ -1156,7 +1155,7 @@
      "url": "https://theconversation.com/au/articles.atom",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "country": "AU",
      "name": "The Conversation"
     },
@@ -1165,7 +1164,7 @@
      "url": "https://www.sbs.com.au/news/feed",
      "site": "",
      "strikes": 0,
-     "lastAlive": "2026-10-11",
+     "lastAlive": "2026-10-18",
      "country": "AU",
      "name": "SBS News"
     }
