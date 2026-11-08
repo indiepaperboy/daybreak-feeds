@@ -440,6 +440,11 @@
      "lastAlive": "2026-10-04",
      "name": "Rest of World",
      "blocked": true
+    },
+    {
+     "title": "Joho no Todai (English)",
+     "url": "https://joho-todai.com/en/rss/",
+     "site": "https://joho-todai.com/en/"
     }
    ]
   },
